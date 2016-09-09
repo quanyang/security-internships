@@ -1,0 +1,10 @@
+{
+    "internships":[
+    {"role":"Pentesting Intern", "company":"Centurion Information Security", "location":"Singapore", "duration":"Not specified", "url":"http://centurioninfosec.sg/careers"},
+    {"role":"Application Security Intern", "company":"GitHub", "location":"San Francisco", "duration":"9 weeks", "url":"https://jobs.lever.co/github/eb49d79f-7022-41d5-afaa-8b4dc8661114"},
+    {"role":"Product Security Intern", "company":"GitHub", "location":"San Francisco", "duration":"9 weeks", "url":"https://jobs.lever.co/github/d297d5f0-9eff-4cf5-bb0c-daa41a0d57db"},
+    {"role":"Pentesting Intern", "company":"MWR InfoSecurity", "location":"Singapore", "duration":"3 or 6 months", "url":"https://careers.mwrinfosecurity.com/Jobs/Advert/454194?FromSearch=False"},
+    {"role":"Security Intern", "company":"Trail Of Bits", "location":"Remotely", "duration":"Not specified", "url":"https://blog.trailofbits.com/2016/08/09/work-for-us-fall-and-winter-internship-opportunities/"},
+    {"role":"Security Engineer Intern", "company":"Workday", "location":"San Francisco", "duration":"Not specified", "url":"https://core.infosecconnect.com/amybadydyrIFSC/"},
+    ]
+}

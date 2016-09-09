@@ -5,6 +5,7 @@ A manually curated list of all security internships available for summer 2017.
 - Application Security Intern
 - Product Security Engineering Intern
 - Pentesting Intern
+- Security Engineer Intern
 
 ## Sort by Company Name
 ### Centurion Information Security
@@ -19,3 +20,7 @@ A manually curated list of all security internships available for summer 2017.
 
 ### Trail Of Bits
 1. [Security Intern - Remotely - Not Specified](https://blog.trailofbits.com/2016/08/09/work-for-us-fall-and-winter-internship-opportunities/)
+
+### Workday
+1. [Security Engineer Intern - San Francisco - Not Specified](https://core.infosecconnect.com/amybadydyrIFSC/)
+

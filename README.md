@@ -18,6 +18,9 @@ A manually curated list of all security internships available for summer 2017.
 ### MWR InfoSecurity
 1. [Pentesting Intern - Singapore - 3 or 6 months](https://careers.mwrinfosecurity.com/Jobs/Advert/454194?FromSearch=False)
 
+### NSHC Security - Email junyuan(at)nshc.net for more information
+1. [Security Intern - Singapore - Not Specified](http://www.nshc.net/wp/en/) 
+
 ### Trail Of Bits
 1. [Security Intern - Remotely - Not Specified](https://blog.trailofbits.com/2016/08/09/work-for-us-fall-and-winter-internship-opportunities/)
 

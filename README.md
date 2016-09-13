@@ -21,6 +21,9 @@ A manually curated list of all security internships available for summer 2017.
 ### NSHC Security - Email junyuan(at)nshc.net for more information
 1. [Security Intern - Singapore - Not Specified](http://www.nshc.net/wp/en/) 
 
+### Symantec
+1. [Security Technology & Response (STAR) Intern - California, Culver City - Not specified](https://symantec.wd1.myworkdayjobs.com/en-US/university/job/USA---California-Culver-City/Security-Technology---Response--STAR--Intern---Symantec_34626)
+
 ### Trail Of Bits
 1. [Security Intern - Remotely - Not Specified](https://blog.trailofbits.com/2016/08/09/work-for-us-fall-and-winter-internship-opportunities/)
 

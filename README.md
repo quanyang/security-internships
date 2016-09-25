@@ -6,8 +6,12 @@ A manually curated list of all security internships available for summer 2017.
 - Product Security Engineering Intern
 - Pentesting Intern
 - Security Engineer Intern
+- Software Security Research & Tools Development
 
 ## Sort by Company Name
+### Autodesk
+1. [Software Security Research & Tools Development Intern - Singapore - 6 months](https://autodesk.taleo.net/careersection/adsk_cmp/jobdetail.ftl?job=16WD21579)
+
 ### Centurion Information Security
 1.  [Pentesting Intern - Singapore - Not Specified](http://centurioninfosec.sg/careers)
 

@@ -1,5 +1,6 @@
 {
     "internships":[
+    {"role":"Software Security Research & Tools Development Intern", "company":"Autodesk", "location":"Singapore", "duration":"6 months", "url":"https://autodesk.taleo.net/careersection/adsk_cmp/jobdetail.ftl?job=16WD21579"},
     {"role":"Pentesting Intern", "company":"Centurion Information Security", "location":"Singapore", "duration":"Not specified", "url":"http://centurioninfosec.sg/careers"},
     {"role":"Application Security Intern", "company":"GitHub", "location":"San Francisco", "duration":"9 weeks", "url":"https://jobs.lever.co/github/eb49d79f-7022-41d5-afaa-8b4dc8661114"},
     {"role":"Product Security Intern", "company":"GitHub", "location":"San Francisco", "duration":"9 weeks", "url":"https://jobs.lever.co/github/d297d5f0-9eff-4cf5-bb0c-daa41a0d57db"},
